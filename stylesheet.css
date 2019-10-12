@@ -103,13 +103,13 @@ header {
 
 .header-left {
   float: left;
-  margin-left: -130px;
+  margin-left: 0px;
   color: white;
 }
 
 .header-right {
   float: right;
-  margin-right: -150px;
+  margin-right: 0px;
 }
 
 .header-right a {
