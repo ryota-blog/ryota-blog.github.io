@@ -23,7 +23,7 @@ a {
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding: 80px 0 350px 0;
   background-image: url(http://ryotayoshino.com/wp-content/uploads/2019/10/イチョウ２　昭和記念公園.jpg);
   background-size: cover;
   color: black;
@@ -104,6 +104,7 @@ header {
 .header-left {
   float: left;
   margin-left: -130px;
+  color: white;
 }
 
 .header-right {
@@ -162,37 +163,15 @@ header {
   line-height: 10px;
 }
 
-
-
 .lesson-icon img {
   width: 95%;
   height: 95%;
 }
 
-.photo-wrapper {
-  padding-left: 5%;
-  padding-right: 5%;
-  background-color:white;
-  text-align: center;
-}
-
-.photo {
-  float: left;
-  width: 25%;
-}
-
-.photo p {
-  line-height: 10px;
-}
-
-
-
-.photo-icon img {
+.special-icon img {
   width: 95%;
-  height: 95%;
+  height: 270px;
 }
-
-
 
 footer img {
   width: 125px;
