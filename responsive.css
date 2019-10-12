@@ -38,4 +38,8 @@
   .top-wrapper p {
     font-size: 14px;
   }
+  
+  .top-wrapper h1 {
+    font-size: 50px;
+  }
 }
