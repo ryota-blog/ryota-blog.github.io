@@ -18,7 +18,7 @@
 
 }
 
-@media all and (max-width: 670px) {
+@media all and (max-width: 800px) {
   .lesson {
     width: 100%;
   }
