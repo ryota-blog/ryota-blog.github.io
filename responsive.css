@@ -18,13 +18,13 @@
 
 }
 
-@media all and (max-width: 1242px) {
+@media all and (max-width: 1250px) {
   .lesson {
     width: 100%;
   }
 
   .btn {
-    width: 50%;
+    width: 100%;
   }
 
   .facebook {
