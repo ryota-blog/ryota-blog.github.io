@@ -1,5 +1,25 @@
 @media all and (max-width: 1000px) {
   .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+
+  .heading h2 {
+    font-size: 20px;
+  }
+
+}
+
+@media all and (max-width: 1242px) {
+  .lesson {
     width: 100%;
   }
 
@@ -13,10 +33,6 @@
 
   .top-wrapper {
     text-align: left;
-  }
-
-  .header-right {
-    display: none;
   }
 
   .top-wrapper h1 {
